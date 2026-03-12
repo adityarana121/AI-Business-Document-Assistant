@@ -7,11 +7,11 @@
 • Streamlit user interface
 ## Architecture
 User Query
-   ↓
+   ->
 Embedding Model
-   ↓
+   ->
 Vector Database
-   ↓
+   ->
 Relevant Document Retrieval
-   ↓
+   ->
 LLM Response
